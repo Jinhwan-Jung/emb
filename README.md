@@ -7,6 +7,7 @@
  
 - PHY 모듈
   - TI DP83TT510EVM
+  - Microchip EVB-LAN8670-RMII (https://www.microchip.com/en-us/development-tool/EV06P90A)
 ---
 - LAN
   - Local Area Network : 근거리 통신망
