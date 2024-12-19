@@ -1,5 +1,5 @@
 # EMB (Electronics Motor Brake)
----
+
 10BASE-T1S 학습할 수 있는 평가 보드
 - MCU
   - NUCLEO-H723ZG : STM32F 저가형 모델
@@ -7,7 +7,9 @@
  
 - PHY 모듈
   - TI DP83TT510EVM
-  - Microchip EVB-LAN8670-RMII (https://www.microchip.com/en-us/development-tool/EV06P90A)
+  - Microchip LAN8670 (https://www.microchip.com/en-us/product/LAN8670)
+    - EVB-LAN8670-RMII (https://www.microchip.com/en-us/development-tool/EV06P90A)
+    - EVB-LAN8670-USB  (https://www.microchip.com/en-us/development-tool/EV08L38A) 
 ---
 - LAN
   - Local Area Network : 근거리 통신망
