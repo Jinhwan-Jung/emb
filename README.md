@@ -40,3 +40,6 @@
   - 3단계 : 전송네트워크
   - 2단계 : 데이터링크
   - 1단계 : 물리
+
+---
+* PLCA (Physcal Layer Collision Avoidance)
